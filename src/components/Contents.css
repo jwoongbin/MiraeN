@@ -1,0 +1,8 @@
+.accordion {
+  font-family: 'NanumSquareRound',sans-serif;
+}
+
+.accordion-body ul {
+  display: flex;
+  justify-content: space-between;
+}
