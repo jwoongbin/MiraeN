@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "movie_app_2021",
+=======
+  "name": "mirae_n",
+>>>>>>> bb43b673e8c5ecb86932346a36afc871b55e19b4
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,13 +14,22 @@
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.1",
     "react-dom": "^17.0.2",
+<<<<<<< HEAD
     "react-router-dom": "^5.3.0",
+=======
+>>>>>>> bb43b673e8c5ecb86932346a36afc871b55e19b4
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
+<<<<<<< HEAD
     "build": "react-scripts build"
+=======
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+>>>>>>> bb43b673e8c5ecb86932346a36afc871b55e19b4
   },
   "eslintConfig": {
     "extends": [
@@ -35,8 +48,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
+=======
+>>>>>>> bb43b673e8c5ecb86932346a36afc871b55e19b4
   }
 }
